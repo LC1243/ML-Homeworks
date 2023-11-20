@@ -1,4 +1,4 @@
-# Machine Learning Homeworks
+# ML-Homeworks
 
 Homeworks da cadeira de Aprendizagem que englobam vários tipos de Aprendizagem, focando na Aprendizagem Supervisionada, e abordando alguns tópicos da Aprendizagem Não Supervisionada:
  - **Homework 1**: Aprendizagem Associativa 
